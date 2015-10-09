@@ -1,0 +1,5 @@
+D:\OAProject\CTOA\SSO\bin\SSO.dll.config
+D:\OAProject\CTOA\SSO\bin\SSO.dll
+D:\OAProject\CTOA\SSO\bin\SSO.pdb
+D:\OAProject\CTOA\SSO\obj\Debug\SSO.dll
+D:\OAProject\CTOA\SSO\obj\Debug\SSO.pdb

@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\OutOA\CTOA</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>10/08/2015 15:01:19</publishTime>
+    </File>
+    <File Include="bin/CTOA.dll">
+      <publishTime>10/09/2015 15:07:53</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>10/08/2015 15:01:21</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>10/08/2015 15:01:21</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>10/08/2015 15:01:23</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>10/08/2015 15:01:23</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>10/08/2015 15:01:23</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>10/08/2015 15:01:23</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>10/08/2015 15:01:23</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>10/08/2015 15:01:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>10/08/2015 15:01:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Facebook.dll">
+      <publishTime>10/08/2015 15:01:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Google.dll">
+      <publishTime>10/08/2015 15:01:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.MicrosoftAccount.dll">
+      <publishTime>10/08/2015 15:01:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>10/08/2015 15:01:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Twitter.dll">
+      <publishTime>10/08/2015 15:01:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>10/08/2015 14:51:17</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>10/08/2015 15:01:19</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>10/08/2015 15:01:23</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>10/08/2015 15:01:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>10/08/2015 15:01:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>10/08/2015 15:01:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>10/08/2015 15:01:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>10/08/2015 15:01:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>10/08/2015 15:01:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>10/08/2015 15:01:18</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>10/08/2015 15:01:19</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/EntityFramework.resources.dll">
+      <publishTime>10/08/2015 15:01:26</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/EntityFramework.SqlServer.resources.dll">
+      <publishTime>10/08/2015 15:01:26</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.AspNet.Identity.Core.resources.dll">
+      <publishTime>10/08/2015 15:01:26</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.AspNet.Identity.EntityFramework.resources.dll">
+      <publishTime>10/08/2015 15:01:26</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.AspNet.Identity.Owin.resources.dll">
+      <publishTime>10/08/2015 15:01:26</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Owin.Host.SystemWeb.resources.dll">
+      <publishTime>10/08/2015 15:01:26</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Owin.resources.dll">
+      <publishTime>10/08/2015 15:01:26</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Owin.Security.Facebook.resources.dll">
+      <publishTime>10/08/2015 15:01:26</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Owin.Security.Google.resources.dll">
+      <publishTime>10/08/2015 15:01:26</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Owin.Security.MicrosoftAccount.resources.dll">
+      <publishTime>10/08/2015 15:01:27</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Owin.Security.resources.dll">
+      <publishTime>10/08/2015 15:01:26</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Owin.Security.Twitter.resources.dll">
+      <publishTime>10/08/2015 15:01:26</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Helpers.resources.dll">
+      <publishTime>10/08/2015 15:01:20</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Mvc.resources.dll">
+      <publishTime>10/08/2015 15:01:20</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Optimization.resources.dll">
+      <publishTime>10/08/2015 15:01:20</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Razor.resources.dll">
+      <publishTime>10/08/2015 15:01:20</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.WebPages.Deployment.resources.dll">
+      <publishTime>10/08/2015 15:01:20</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.WebPages.Razor.resources.dll">
+      <publishTime>10/08/2015 15:01:20</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.WebPages.resources.dll">
+      <publishTime>10/08/2015 15:01:20</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>10/08/2015 16:40:53</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>10/08/2015 16:40:53</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>10/08/2015 16:40:55</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>10/08/2015 16:40:51</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>10/08/2015 16:40:53</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>10/08/2015 16:40:53</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>10/08/2015 16:40:53</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>10/08/2015 16:40:53</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>10/08/2015 16:40:51</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>10/08/2015 16:40:59</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>10/08/2015 16:40:53</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>10/08/2015 16:40:53</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>10/08/2015 16:40:53</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>10/08/2015 16:40:53</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>10/08/2015 16:40:53</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>10/08/2015 16:40:59</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>10/08/2015 16:40:59</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>10/08/2015 16:40:59</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>10/08/2015 16:40:59</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>10/08/2015 16:40:54</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>10/08/2015 16:40:55</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>10/08/2015 16:40:55</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>10/08/2015 16:40:54</publishTime>
+    </File>
+    <File Include="Service References/PassportWebServiceReference/CTOA.PassportWebServiceReference.GetSignNameByTokenResponse.datasource">
+      <publishTime>10/08/2015 16:59:51</publishTime>
+    </File>
+    <File Include="Service References/PassportWebServiceReference/CTOA.PassportWebServiceReference.GetTokenResponse.datasource">
+      <publishTime>10/08/2015 16:59:51</publishTime>
+    </File>
+    <File Include="Service References/PassportWebServiceReference/CTOA.PassportWebServiceReference.HelloWorldResponse.datasource">
+      <publishTime>10/08/2015 16:59:51</publishTime>
+    </File>
+    <File Include="Service References/PassportWebServiceReference/CTOA.PassportWebServiceReference.ValidateTokenResponse.datasource">
+      <publishTime>10/08/2015 16:59:51</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>10/08/2015 16:40:55</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>10/08/2015 16:40:55</publishTime>
+    </File>
+    <File Include="Views/Shared/_LoginPartial.cshtml">
+      <publishTime>10/09/2015 15:02:56</publishTime>
+    </File>
+    <File Include="Views/Test/Index.cshtml">
+      <publishTime>10/09/2015 15:07:14</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>10/08/2015 16:40:51</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>10/08/2015 16:40:51</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/09/2015 15:03:57</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
