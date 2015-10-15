@@ -1,0 +1,6 @@
+D:\OAProject\CTOA\BusinessCore\bin\Release\BusinessCore.dll
+D:\OAProject\CTOA\BusinessCore\bin\Release\BusinessCore.pdb
+D:\OAProject\CTOA\BusinessCore\obj\Release\BusinessCore.dll
+D:\OAProject\CTOA\BusinessCore\obj\Release\BusinessCore.pdb
+D:\OAProject\CTOA\BusinessCore\bin\Release\BusinessCore.dll.config
+D:\OAProject\CTOA\BusinessCore\obj\Release\BusinessCore.csprojResolveAssemblyReference.cache
