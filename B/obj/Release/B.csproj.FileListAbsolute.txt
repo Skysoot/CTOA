@@ -1,8 +1,0 @@
-D:\OAProject\CTOA\B\bin\B.dll.config
-D:\OAProject\CTOA\B\bin\B.dll
-D:\OAProject\CTOA\B\bin\B.pdb
-D:\OAProject\CTOA\B\bin\BusinessCore.dll
-D:\OAProject\CTOA\B\bin\BusinessCore.pdb
-D:\OAProject\CTOA\B\obj\Release\B.dll
-D:\OAProject\CTOA\B\obj\Release\B.pdb
-D:\OAProject\CTOA\B\obj\Release\B.csprojResolveAssemblyReference.cache

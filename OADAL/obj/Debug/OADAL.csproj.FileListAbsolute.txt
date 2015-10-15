@@ -2,4 +2,3 @@ D:\OAProject\CTOA\OADAL\bin\Debug\OADAL.dll
 D:\OAProject\CTOA\OADAL\bin\Debug\OADAL.pdb
 D:\OAProject\CTOA\OADAL\obj\Debug\OADAL.dll
 D:\OAProject\CTOA\OADAL\obj\Debug\OADAL.pdb
-D:\OAProject\CTOA\OADAL\obj\Debug\OADAL.csprojResolveAssemblyReference.cache
